@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# set -k
+
+x=5
+echo "x = $x"  # Gibt "x = 5" 
